@@ -26,7 +26,7 @@ Train a model and explain the predictions using LIME and SHAP (use your own data
 - An usable python3 installation or Anaconda with Python3 (recommended) 
 
 ## Before start
-- Create a new environment with the following libraries or install the libraries using pip (if you prefer not to use Anaconda Platform)
+- Create a new environment using environment.yml or install the libraries using pip (if you prefer not to use Anaconda Platform)
 
 ```
 conda env create -f environment.yml 
