@@ -29,6 +29,13 @@ Train a model and explain the predictions using LIME and SHAP (use your own data
 - Create a new environment using environment.yml or install the libraries using pip (if you prefer not to use Anaconda Platform)
 
 ```
+cd tellmewhy 
 conda env create -f environment.yml 
+```
+
+## Launch JupyterLab
+
+```
 conda activate tellmewhy
+jupyter lab
 ```
