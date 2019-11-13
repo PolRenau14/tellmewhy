@@ -117,7 +117,7 @@ dependencies:
   - xz=5.2.4
   - zeromq=4.3.1
   - zlib=1.2.11
-  - zstd=1.4.3
+  - zstd=1.4.0
   - pip:
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
