@@ -23,7 +23,7 @@ Train a model and explain the predictions using LIME and SHAP (use your own data
 
 ## Prerequisites
 - Graphviz library (link: http://www.graphviz.org). If python not found graphviz installation, add installation folder to path. (In windows, add C:...\graphviz\bin to Control Panel > System and Security > System > Advanced System Settings > Environment Variables > Path > Edit > New. 
-- An usable python3 installation or Anaconda with Python3 (recommended) 
+- An usable python3 installation or Anaconda Python3.7 
 
 ## Before start
 - Create a new environment using environment.yml or install the libraries using pip (if you prefer not to use Anaconda Platform)
