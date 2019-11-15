@@ -1,0 +1,8 @@
+Required Packages for the workshop
+==================================
+-scikit-learn
+-pydotplus
+-xlstd
+-lime
+-shap
+-xlrd
