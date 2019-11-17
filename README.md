@@ -21,21 +21,20 @@ In this hands-on are introduced how to explain High Accuracy algorithms (SVM, De
 ### Exercise (Exercise.ipynb)
 Train a model and explain the predictions using LIME and SHAP (use your own dataset or titanic data (Data/titanic.xls)
 
-## Prerequisites
+## Installation
+### Method 1: Running in Colab
+The notebooks are hosted in Colab (no installation required) 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/open?id=1aBxtg79tQjFMQ6zZyFYWlam3p0KnOkNY)
+
+
+## Method 2 : Virtual environment (using Conda) 
 - Graphviz library (link: http://www.graphviz.org). If python not found graphviz installation, add installation folder to path. (In windows, add C:...\graphviz\bin to Control Panel > System and Security > System > Advanced System Settings > Environment Variables > Path > Edit > New. 
 - An usable python3 installation or Anaconda Python3.7 
-
-## Before start
-- Create a new environment using environment.yml or install the libraries using pip (if you prefer not to use Anaconda Platform)
 
 ```
 cd tellmewhy 
 conda env create -f environment.yml 
-```
-
-## Launch JupyterLab
-
-```
 conda activate tellmewhy
 jupyter lab
 ```
