@@ -28,7 +28,7 @@ The notebooks are hosted in Colab (no installation required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/open?id=1aBxtg79tQjFMQ6zZyFYWlam3p0KnOkNY)
 
 
-## Method 2 : Virtual environment (using Conda) 
+### Method 2 : Virtual environment (using Conda) 
 - Graphviz library (link: http://www.graphviz.org). If python not found graphviz installation, add installation folder to path. (In windows, add C:...\graphviz\bin to Control Panel > System and Security > System > Advanced System Settings > Environment Variables > Path > Edit > New. 
 - An usable python3 installation or Anaconda Python3.7 
 
